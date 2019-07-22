@@ -18,11 +18,11 @@ Point to the live URL of the respective page and embed away with `amp-iframe`.
 
 Check the source of the files. If you're here and interested, it should read pretty cleanly.
 
-### 1. `disqus-embed.html`
+### 1. `disqus_embed.html`
 
 This follows [the example given from disqus](https://github.com/disqus/disqus-install-examples/tree/master/google-amp).
 
-### 2. `gist-embed.html`
+### 2. `gist_embed.html`
 
 Similarly for GitHub gist embeds, including availability of single file selection. This was superseded in my implementation in my blog, so it's 
 included more for historical reference.
